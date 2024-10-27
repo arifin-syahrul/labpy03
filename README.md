@@ -85,6 +85,8 @@ Rumus Program untuk Program 1 (Praktikum 3)
 
 Ketikkan rumusnya seperti dibawah ini.
 
+![program1 py](https://github.com/user-attachments/assets/2049f30f-325d-4531-8704-165af74dfb90)
+
 kemudian klik Run untuk meihat hasil Program
 
 
