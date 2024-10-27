@@ -60,6 +60,7 @@ Ketikkan Rumusnya seperti dibawah ini.
 
 kemudian klik Run untuk meihat hasil Program
 
+![hasil latihan02 py](https://github.com/user-attachments/assets/29bcef09-da5d-4033-af5c-18633fc47330)
 __________________________________________________________________________________________________________________________________________________________________________________________
 # Program01.py
 
