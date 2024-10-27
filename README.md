@@ -56,6 +56,8 @@ Rumus Program untuk Latihan 2
 
 Ketikkan Rumusnya seperti dibawah ini.
 
+![latihan02 py](https://github.com/user-attachments/assets/44add58b-cf4f-481a-b867-9a79d331bcf7)
+
 kemudian klik Run untuk meihat hasil Program
 
 __________________________________________________________________________________________________________________________________________________________________________________________
