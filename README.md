@@ -13,6 +13,7 @@ ________________________________________________________________________________
 
 Gambar Flowchart pada latihan 1
 
+![Flowchart Latihan1](https://github.com/user-attachments/assets/abf8e06f-2183-43a1-95e5-4eb8cf3d77f2)
 
 
 Algoritma latihan 1
