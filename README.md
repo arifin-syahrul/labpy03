@@ -28,6 +28,8 @@ Menampilkan N bilangan acak yang lebih kecil dari 0,5, nilai N diisi pada saat r
 
 Rumus Program untuk Latihan 1
 
+![latihan01 py](https://github.com/user-attachments/assets/adf05a1d-dc70-4538-b6a6-0158fa68e280)
+
 Ketikkan rumusnya seperti dibawah ini.
 
 kemudian klik Run untuk meihat hasil Program
