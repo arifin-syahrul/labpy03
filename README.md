@@ -89,6 +89,8 @@ Ketikkan rumusnya seperti dibawah ini.
 
 kemudian klik Run untuk meihat hasil Program
 
+![hasil program01 py](https://github.com/user-attachments/assets/784cf37f-8173-4d2f-a809-ba7094b7825b)
+
 
 
 
