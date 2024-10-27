@@ -40,6 +40,8 @@ ________________________________________________________________________________
 
 Gambar Flowchart pada latihan 2
 
+![Flowchart Latihan2](https://github.com/user-attachments/assets/da0ce2bd-4410-4c6b-984a-018d242bbec3)
+
 Algoritma Latihan 2
 1. Mulai
 2. int max = 0 Fungsi dari max untuk mencari nilai tertinggi.
